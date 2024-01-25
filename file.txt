@@ -1,2 +1,3 @@
 hello GPT
 This GPT helps you to find out about anything
+Try out and see
