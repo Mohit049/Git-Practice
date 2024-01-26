@@ -1,2 +1,2 @@
 # Git-Practice
-Learning about how git works by applying it practically
+Changed the Readme file to see changes
